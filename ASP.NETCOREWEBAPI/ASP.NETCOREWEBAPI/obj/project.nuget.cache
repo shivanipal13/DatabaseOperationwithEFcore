@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYNdPke3ZZEtep2qbKhJdu88i9RIh5XWWsO+RrHUzYLUT4hFIM7hluPIgnpVH+ga70VyQs6FbcdPp68WCUHN+w==",
+  "success": true,
+  "projectFilePath": "D:\\.NETPractice\\EntityFrameworkCore\\src\\DatabaseOperationwithEFcore\\ASP.NETCOREWEBAPI\\ASP.NETCOREWEBAPI\\ASP.NETCOREWEBAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
