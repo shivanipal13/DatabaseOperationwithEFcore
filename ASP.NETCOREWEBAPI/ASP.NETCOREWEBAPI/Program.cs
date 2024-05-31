@@ -1,3 +1,7 @@
+using ASP.NETCOREWEBAPI.Data;
+using Microsoft.EntityFrameworkCore;
+
+
 namespace ASP.NETCOREWEBAPI
 {
     public class Program
@@ -5,7 +9,9 @@ namespace ASP.NETCOREWEBAPI
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+          
+            builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             // Add services to the container.
 
             builder.Services.AddControllers();
